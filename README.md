@@ -2,6 +2,8 @@
 
 Hands-on labs covering the Microsoft **AZ-104: Azure Administrator** skills. Each lab is written up as a breakdown: the goal, what I built, how I checked it works, and what I learned. That way this repo is both a study record and a portfolio.
 
+> 🌐 Part of [Joshua Richard's portfolio](https://joshuarichard116-sudo.github.io/jrichard-web/) · Lead Engineer, CMMC & GCC High · also see the [playable firewall lab](https://joshuarichard116-sudo.github.io/jrichard-web/labs/talvex-firewall/)
+
 > Related project: [Meridian Steel — Access Governance & RBAC](https://github.com/joshuarichard116-sudo/meridian-steel-access-governance), a hybrid AD/Entra build that covers much of Domain 1 in a realistic scenario.
 
 ## Progress
